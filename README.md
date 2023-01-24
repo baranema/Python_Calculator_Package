@@ -1,5 +1,7 @@
 # Emilija's Calculator Package
 
+Originally created on July 2022
+
 ## Description
 The package is an implementation of a calculator that performs basic math tasks written in Python. The actions implementd:
 
